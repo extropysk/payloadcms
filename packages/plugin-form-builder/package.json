@@ -36,7 +36,7 @@
     "copyfiles": "^2.4.1",
     "cross-env": "^7.0.3",
     "nodemon": "3.0.3",
-    "payload": "workspace:*",
+    "payload": "workspace:@extropysk/payloadcms@*",
     "ts-node": "10.9.1"
   },
   "files": [

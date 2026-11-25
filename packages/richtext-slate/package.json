@@ -34,7 +34,7 @@
     "@payloadcms/eslint-config": "workspace:*",
     "@types/node": "20.5.7",
     "@types/react": "18.2.15",
-    "payload": "workspace:*"
+    "payload": "workspace:@extropysk/payloadcms@*"
   },
   "peerDependencies": {
     "payload": "^2.3.0",

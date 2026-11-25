@@ -60,7 +60,7 @@
     "@types/webpack-bundle-analyzer": "^4.6.0",
     "@types/webpack-env": "^1.18.0",
     "@types/webpack-hot-middleware": "2.25.6",
-    "payload": "workspace:*"
+    "payload": "workspace:@extropysk/payloadcms@*"
   },
   "resolutions": {
     "ajv": "8.14.0",

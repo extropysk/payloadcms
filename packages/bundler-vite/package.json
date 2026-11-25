@@ -37,7 +37,7 @@
   },
   "devDependencies": {
     "@payloadcms/eslint-config": "workspace:*",
-    "payload": "workspace:*"
+    "payload": "workspace:@extropysk/payloadcms@*"
   },
   "peerDependencies": {
     "payload": "^2.0.0",

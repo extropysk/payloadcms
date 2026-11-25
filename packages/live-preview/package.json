@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@payloadcms/eslint-config": "workspace:*",
-    "payload": "workspace:*"
+    "payload": "workspace:@extropysk/payloadcms@*"
   },
   "exports": {
     ".": {

@@ -23,7 +23,7 @@
   "author": "dev@payloadcms.com",
   "license": "MIT",
   "peerDependencies": {
-    "payload": "workspace:*",
+    "payload": "workspace:@extropysk/payloadcms@*",
     "mongoose": "^8.0.0"
   },
   "files": [
@@ -34,7 +34,7 @@
   ],
   "devDependencies": {
     "@payloadcms/eslint-config": "workspace:*",
-    "payload": "workspace:*",
+    "payload": "workspace:@extropysk/payloadcms@*",
     "webpack": "5.91.0"
   }
 }

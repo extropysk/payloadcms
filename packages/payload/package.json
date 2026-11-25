@@ -1,7 +1,7 @@
 {
-  "name": "payload",
-  "version": "2.32.3",
-  "description": "Node, React and MongoDB Headless CMS and Application Framework",
+  "name": "@extropysk/payloadcms",
+  "version": "2.33.0",
+  "description": "Community-maintained fork of Payload 2.x - Node, React and MongoDB Headless CMS and Application Framework",
   "license": "MIT",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -267,26 +267,19 @@
     "registry": "https://registry.npmjs.org/",
     "types": "./dist/index.d.ts"
   },
-  "homepage": "https://payloadcms.com",
+  "homepage": "https://github.com/extropysk/payloadcms/tree/2.x",
   "author": {
     "email": "info@payloadcms.com",
     "name": "Payload",
     "url": "https://payloadcms.com"
   },
-  "maintainers": [
-    {
-      "email": "info@payloadcms.com",
-      "name": "Payload",
-      "url": "https://payloadcms.com"
-    }
-  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/payloadcms/payload.git",
+    "url": "git+https://github.com/extropysk/payloadcms.git",
     "directory": "packages/payload"
   },
   "bugs": {
-    "url": "https://github.com/payloadcms/payload"
+    "url": "https://github.com/extropysk/payloadcms/issues"
   },
   "sideEffects": false
 }

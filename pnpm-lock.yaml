@@ -287,7 +287,7 @@ importers:
         specifier: workspace:*
         version: link:../eslint-config-payload
       payload:
-        specifier: workspace:*
+        specifier: workspace:@extropysk/payloadcms@*
         version: link:../payload
 
   packages/bundler-webpack:
@@ -396,7 +396,7 @@ importers:
         specifier: 2.25.6
         version: 2.25.6(@swc/core@1.6.1)(webpack-cli@4.10.0(webpack-bundle-analyzer@4.10.2)(webpack@5.91.0))
       payload:
-        specifier: workspace:*
+        specifier: workspace:@extropysk/payloadcms@*
         version: link:../payload
 
   packages/create-payload-app:
@@ -503,7 +503,7 @@ importers:
         specifier: ^9
         version: 9.2.0(@aws-sdk/credential-providers@3.563.0)
       payload:
-        specifier: workspace:*
+        specifier: workspace:@extropysk/payloadcms@*
         version: link:../payload
 
   packages/db-postgres:
@@ -515,8 +515,8 @@ importers:
         specifier: 2.11.2
         version: 2.11.2
       drizzle-kit:
-        specifier: 0.23.2-df9e596
-        version: 0.23.2-df9e596
+        specifier: 0.23.2
+        version: 0.23.2
       drizzle-orm:
         specifier: 0.32.1
         version: 0.32.1(@libsql/client@0.3.6)(@opentelemetry/api@1.8.0)(@types/pg@8.10.2)(@types/react@18.2.15)(pg@8.11.3)(react@18.2.0)
@@ -543,7 +543,7 @@ importers:
         specifier: 1.0.0
         version: 1.0.0
       payload:
-        specifier: workspace:*
+        specifier: workspace:@extropysk/payloadcms@*
         version: link:../payload
 
   packages/eslint-config-payload:
@@ -600,7 +600,7 @@ importers:
         specifier: workspace:*
         version: link:../eslint-config-payload
       payload:
-        specifier: workspace:*
+        specifier: workspace:@extropysk/payloadcms@*
         version: link:../payload
 
   packages/live-preview-react:
@@ -619,7 +619,7 @@ importers:
         specifier: ^18.2.0
         version: 18.2.15
       payload:
-        specifier: workspace:*
+        specifier: workspace:@extropysk/payloadcms@*
         version: link:../payload
 
   packages/live-preview-vue:
@@ -632,7 +632,7 @@ importers:
         specifier: workspace:*
         version: link:../eslint-config-payload
       payload:
-        specifier: workspace:*
+        specifier: workspace:@extropysk/payloadcms@*
         version: link:../payload
       vue:
         specifier: ^3.0.0
@@ -1120,7 +1120,7 @@ importers:
         specifier: 6.4.16
         version: 6.4.16
       payload:
-        specifier: workspace:*
+        specifier: workspace:@extropysk/payloadcms@*
         version: link:../payload
       ts-jest:
         specifier: ^29.1.0
@@ -1172,7 +1172,7 @@ importers:
         specifier: 3.0.3
         version: 3.0.3
       payload:
-        specifier: workspace:*
+        specifier: workspace:@extropysk/payloadcms@*
         version: link:../payload
       rimraf:
         specifier: ^4.1.2
@@ -1218,7 +1218,7 @@ importers:
         specifier: 3.0.3
         version: 3.0.3
       payload:
-        specifier: workspace:*
+        specifier: workspace:@extropysk/payloadcms@*
         version: link:../payload
       ts-node:
         specifier: 10.9.2
@@ -1230,7 +1230,7 @@ importers:
         specifier: workspace:*
         version: link:../eslint-config-payload
       payload:
-        specifier: workspace:*
+        specifier: workspace:@extropysk/payloadcms@*
         version: link:../payload
 
   packages/plugin-redirects:
@@ -1249,7 +1249,7 @@ importers:
         specifier: 18.0.21
         version: 18.0.21
       payload:
-        specifier: workspace:*
+        specifier: workspace:@extropysk/payloadcms@*
         version: link:../payload
 
   packages/plugin-relationship-object-ids:
@@ -1262,7 +1262,7 @@ importers:
         specifier: workspace:*
         version: link:../eslint-config-payload
       payload:
-        specifier: workspace:*
+        specifier: workspace:@extropysk/payloadcms@*
         version: link:../payload
       webpack:
         specifier: 5.91.0
@@ -1287,7 +1287,7 @@ importers:
         specifier: 18.0.21
         version: 18.0.21
       payload:
-        specifier: workspace:*
+        specifier: workspace:@extropysk/payloadcms@*
         version: link:../payload
 
   packages/plugin-sentry:
@@ -1336,7 +1336,7 @@ importers:
         specifier: 3.0.3
         version: 3.0.3
       payload:
-        specifier: workspace:*
+        specifier: workspace:@extropysk/payloadcms@*
         version: link:../payload
       ts-jest:
         specifier: ^29.1.0
@@ -1361,7 +1361,7 @@ importers:
         specifier: 18.2.15
         version: 18.2.15
       payload:
-        specifier: workspace:*
+        specifier: workspace:@extropysk/payloadcms@*
         version: link:../payload
 
   packages/plugin-stripe:
@@ -1395,7 +1395,7 @@ importers:
         specifier: ^9.0.0
         version: 9.0.8
       payload:
-        specifier: workspace:*
+        specifier: workspace:@extropysk/payloadcms@*
         version: link:../payload
       prettier:
         specifier: ^2.7.1
@@ -1486,7 +1486,7 @@ importers:
         specifier: 18.2.15
         version: 18.2.15
       payload:
-        specifier: workspace:*
+        specifier: workspace:@extropysk/payloadcms@*
         version: link:../payload
 
   packages/richtext-slate:
@@ -1529,7 +1529,7 @@ importers:
         specifier: 18.2.15
         version: 18.2.15
       payload:
-        specifier: workspace:*
+        specifier: workspace:@extropysk/payloadcms@*
         version: link:../payload
 
 packages:
@@ -2463,11 +2463,11 @@ packages:
 
   '@esbuild-kit/core-utils@3.3.2':
     resolution: {integrity: sha512-sPRAnw9CdSsRmEtnsl2WXWdyquogVpB3yZ3dgwJfe8zrOzTsV7cJvmwrKVa+0ma5BoiGJ+BoqkMvawbayKUsqQ==}
-    deprecated: 'Merged into tsx: https://tsx.is'
+    deprecated: 'Merged into tsx: https://tsx.hirok.io'
 
   '@esbuild-kit/esm-loader@2.6.5':
     resolution: {integrity: sha512-FxEMIkJKnodyA1OaCUoEvbYRkoZlLZ4d/eXFu9Fh8CbBBgP5EmZxrfTRyN0qpXZ4vOvqnE5YdRdcrmUUXuU+dA==}
-    deprecated: 'Merged into tsx: https://tsx.is'
+    deprecated: 'Merged into tsx: https://tsx.hirok.io'
 
   '@esbuild/aix-ppc64@0.25.1':
     resolution: {integrity: sha512-kfYGy8IdzTGy+z0vFGvExZtxkFlA4zAxgKEahG9KE1ScBjpQnFsNOX8KTU5ojNru5ed5CVoJYXFtoxaq5nFbjQ==}
@@ -5460,8 +5460,8 @@ packages:
     resolution: {integrity: sha512-IrPdXQsk2BbzvCBGBOTmmSH5SodmqZNt4ERAZDmW4CT+tL8VtvinqywuANaFu4bOMWki16nqf0e4oC0QIaDr/g==}
     engines: {node: '>=10'}
 
-  drizzle-kit@0.23.2-df9e596:
-    resolution: {integrity: sha512-MOvoeDE1c05XGevXLqhRVu/TNHwueibPZqMUH/kG1v6DOHD5pB2poRpjphr4sjae2QDS6h+PU5pCfzqEa6le6Q==}
+  drizzle-kit@0.23.2:
+    resolution: {integrity: sha512-NWkQ7GD2OTbQ7HzcjsaCOf3n0tlFPSEAF38fvDpwDj8jRbGWGFtN2cD8I8wp4lU+5Os/oyP2xycTKGLHdPipUw==}
     hasBin: true
 
   drizzle-orm@0.32.1:
@@ -16045,7 +16045,7 @@ snapshots:
 
   dotenv@8.6.0: {}
 
-  drizzle-kit@0.23.2-df9e596:
+  drizzle-kit@0.23.2:
     dependencies:
       '@drizzle-team/brocli': 0.8.2
       '@esbuild-kit/esm-loader': 2.6.5

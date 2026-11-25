@@ -1,3 +1,13 @@
+> **@extropysk/payloadcms** is a community-maintained fork of [Payload](https://github.com/payloadcms/payload) 2.x by Extropy. It is not affiliated with or endorsed by Payload CMS, Inc.
+>
+> Install it as a drop-in replacement under the `payload` alias so that all `payload/*` imports and official `@payloadcms/*` 2.x packages keep working:
+>
+> ```json
+> "dependencies": {
+>   "payload": "npm:@extropysk/payloadcms@^2.33.0"
+> }
+> ```
+
 <a href="https://payloadcms.com">
   <img width="100%" src="https://github.com/payloadcms/payload/blob/main/packages/payload/src/admin/assets/images/github-banner-alt.jpg?raw=true" alt="Payload headless CMS Admin panel built with React" />
 </a>
